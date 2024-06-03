@@ -7,6 +7,7 @@ yarn
 yarn  android
 
 使用expo+reactnative快速开发，当个登录/注册模板供给使用!!!
+expo调试方便，可以用chrome调试。
 ```
 
 ### 
